@@ -3,5 +3,18 @@
   "ffBanner": "ff-banner-1793954315182.jpg",
   "ffPackages": null,
   "banners": null,
-  "quick": null
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": "https://@RskFahim"
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ]
 }
